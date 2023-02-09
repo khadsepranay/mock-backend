@@ -1,0 +1,27 @@
+{
+  "BookData": [],
+  "BorrowedBooks": [
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Pranay",
+      "author": "Nobita",
+      "genre": "Science",
+      "edition": "2021",
+      "publisher": "Zisuka",
+      "cost": "78",
+      "borrowed": true,
+      "id": 2
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "Science",
+      "edition": "2020",
+      "publisher": "Bloomsbury",
+      "cost": "323232",
+      "borrowed": true,
+      "id": 1
+    }
+  ]
+}
